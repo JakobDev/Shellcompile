@@ -1,2 +1,2 @@
 # Shellcompile
-This Programm Compile a Shellscript into a executable
+This program compiles a shell script into an executable file
